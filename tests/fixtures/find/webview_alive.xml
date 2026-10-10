@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node text="" resource-id="" class="android.widget.FrameLayout" content-desc="" clickable="false" focusable="false" long-clickable="false" bounds="[0,0][1080,2400]">
+    <node text="" resource-id="" class="android.webkit.WebView" content-desc="" clickable="false" focusable="false" long-clickable="false" bounds="[0,100][1080,2300]">
+      <node text="网络诊断" resource-id="" class="android.widget.TextView" content-desc="" clickable="false" focusable="false" long-clickable="false" bounds="[100,200][800,300]"/>
+    </node>
+  </node>
+</hierarchy>

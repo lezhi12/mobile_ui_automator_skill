@@ -1,0 +1,7 @@
+evidence/
+__pycache__/
+.DS_Store
+logs/
+explorer.jsonl
+result.png
+scripts/omni_notes_*.sh
